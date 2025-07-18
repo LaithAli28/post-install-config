@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/LaithAli28/post-install-config/blob/main/O1.png?raw=true)
 
 </p>
 <p>
@@ -45,9 +45,7 @@ Roles define permissions & control the actions that Agents (staff members) can p
 
 <p>
 
- <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/LaithAli28/post-install-config/blob/main/O2.png?raw=true)
 
 </p>
 <p>
@@ -59,10 +57,7 @@ Departments deal in organizational development, primarily managing support ticke
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+![image alt](https://github.com/LaithAli28/post-install-config/blob/main/O3.png?raw=true)
 </p>
 <p>
 Teams serve a different but complementary purpose to Departments. While Departments organize tickets by category or function, Teams are used to manage agent collaboration across Departments. Teams provide cross-department collaboration, Granular Agent Assignment, Permission & Access Management, Workload Distribution, & Improved Collaboration. 
@@ -72,8 +67,7 @@ Teams serve a different but complementary purpose to Departments. While Departme
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+![image alt](https://github.com/LaithAli28/post-install-config/blob/main/O6.png?raw=true)
 </p>
 <p>
 Users are the individuals who create support tickets: typically the customers, clients, or end-users. Users are the ones SEEKING help, not the staff responding to tickets. Users can submit support requests, track ticket status, receive notifications, and have user profiles & history. 
@@ -85,9 +79,7 @@ Users are the individuals who create support tickets: typically the customers, c
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/LaithAli28/post-install-config/blob/main/O5.png?raw=true)
 
 
 </p>
@@ -101,9 +93,7 @@ Users are the individuals who create support tickets: typically the customers, c
 
 <p>
  
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/LaithAli28/post-install-config/blob/main/O7.png?raw=true)
 
 </p>
 <p>
@@ -114,9 +104,7 @@ Service Level Agreements (SLAs) are used as a guideline to define and enforce re
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/LaithAli28/post-install-config/blob/main/08.png?raw=true)
 
 
 </p>
